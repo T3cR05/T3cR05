@@ -1,4 +1,4 @@
-<h1>Hi, I'm Petros! <a href="https://www.linkedin.com/in/petrostecle/">Cybersecurity Professional</a>, <br/><a href="https://github.com/T3cr05">Programmer</a>
+<h1>Hi, I'm Petros! <a href="https://www.linkedin.com/in/petrostecle/">Cybersecurity Professional</a>, <a href="https://github.com/T3cr05">Programmer</a><br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <!--
